@@ -1,0 +1,42 @@
+# textdomain: mcl_candles
+
+Lit=Acesa(s)
+
+Candle=Vela
+Black Candle=Vela Preta
+Blue Candle=Vela Azul
+Brown Candle=Vela Marrom
+Cyan Candle=Vela Ciano
+Green Candle=Vela Verde
+Grey Candle=Vela Cinza
+Light Blue Candle=Vela Azul-Claro
+Light Grey Candle=Vela Cinza-Claro
+Lime Candle=Vela Lima
+Magenta Candle=Vela Magenta
+Orange Candle=Vela Laranja
+Pink Candle=Vela Rosa
+Purple Candle=Vela Roxa
+Red Candle=Vela Vermelha
+White Candle=Vela Branca
+Yellow Candle=Vela Amarela
+
+Cake With Candle=Bolo com Vela
+Cake With Black Candle=Bolo com Vela Preta
+Cake With Blue Candle=Bolo com Vela Azul
+Cake With Brown Candle=Bolo com Vela Marrom
+Cake With Cyan Candle=Bolo com Vela Ciano
+Cake With Green Candle=Bolo com Vela Verde
+Cake With Grey Candle=Bolo com Vela Cinza
+Cake With Light Blue Candle=Bolo com Vela Azul-Claro
+Cake With Light Grey Candle=Bolo com Vela Cinza-Claro
+Cake With Lime Candle=Bolo com Vela Lima
+Cake With Magenta Candle=Bolo com Vela Magenta
+Cake With Orange Candle=Bolo com Vela Laranja
+Cake With Pink Candle=Bolo com Vela Rosa
+Cake With Purple Candle=Bolo com Vela Roxa
+Cake With Red Candle=Bolo com Vela Vermelha
+Cake With White Candle=Bolo com Vela Branca
+Cake With Yellow Candle=Bolo com Vela Amarela
+
+Lighted candles are sources of light. They can be unlighted by right-clicking with your empty hand on them.=Velas acesas são fontes de luz. Elas podem ser apagadas clicando com o botão direito com sua mão vazia sobre elas.
+Unlighted candles can be lighted with a flint and steel. Rightclick on them with the flint and steel on your hand.=Velas apagadas podem ser acesas com um isqueiro. Clique com o botão direito nelas com o isqueiro em sua mão.

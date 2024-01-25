@@ -1,0 +1,42 @@
+# textdomain: mcl_candles
+
+Lit=
+
+Candle=
+Black Candle=
+Blue Candle=
+Brown Candle=
+Cyan Candle=
+Green Candle=
+Grey Candle=
+Light Blue Candle=
+Light Grey Candle=
+Lime Candle=
+Magenta Candle=
+Orange Candle=
+Pink Candle=
+Purple Candle=
+Red Candle=
+White Candle=
+Yellow Candle=
+
+Cake With Candle=
+Cake With Black Candle=
+Cake With Blue Candle=
+Cake With Brown Candle=
+Cake With Cyan Candle=
+Cake With Green Candle=
+Cake With Grey Candle=
+Cake With Light Blue Candle=
+Cake With Light Grey Candle=
+Cake With Lime Candle=
+Cake With Magenta Candle=
+Cake With Orange Candle=
+Cake With Pink Candle=
+Cake With Purple Candle=
+Cake With Red Candle=
+Cake With White Candle=
+Cake With Yellow Candle=
+
+Lighted candles are sources of light. They can be unlighted by right-clicking with your empty hand on them.=
+Unlighted candles can be lighted with a flint and steel. Rightclick on them with the flint and steel on your hand.=
